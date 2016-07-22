@@ -1,0 +1,360 @@
+0.000000 - Simulator program starting
+0.000094 - OS: preparing all processes
+0.000112 - OS: seleting next process
+0.000125 - Process 1: processing action - start
+0.035778 - OS: seleting next process
+0.035826 - Process 2: processing action - start
+0.065883 - OS: seleting next process
+0.065944 - Process 3: processing action - start
+0.096012 - OS: seleting next process
+0.096037 - Process 1: processing action - continue
+0.126171 - OS: seleting next process
+0.126200 - Process 2: processing action - continue
+0.156330 - OS: seleting next process
+0.156357 - Process 3: processing action - continue
+0.186425 - OS: seleting next process
+0.186452 - Process 1: processing action - continue
+0.216553 - OS: seleting next process
+0.216581 - Process 2: processing action - continue
+0.246633 - OS: seleting next process
+0.246661 - Process 3: processing action - continue
+0.276729 - OS: seleting next process
+0.276752 - Process 1: processing action - continue
+0.306814 - Interrupt: Process 1 - quantum time out
+0.306841 - OS: seleting next process
+0.306845 - Process 2: processing action - continue
+0.337069 - Interrupt: Process 2 - quantum time out
+0.337095 - OS: seleting next process
+0.337099 - Process 3: processing action - continue
+0.367163 - Interrupt: Process 3 - quantum time out
+0.367192 - OS: seleting next process
+0.367197 - Process 1: hard drive input - start
+0.367273 - Process 1 : block for hard drive input
+0.367279 - OS: seleting next process
+0.367282 - Process 2: processing action - start
+0.383444 - OS: seleting next process
+0.383474 - Process 3: printer output - start
+0.383504 - Process 3 : block for printer output
+0.383519 - OS: seleting next process
+0.383523 - Process 2: processing action - continue
+0.398554 - OS: seleting next process
+0.398574 - Process 2: processing action - continue
+0.414716 - Interrupt: Process 1 - hard drive input completed
+0.414804 - OS: seleting next process
+0.418049 - Process 1: hard drive output - start
+0.418090 - Process 1 : block for hard drive output
+0.418108 - OS: seleting next process
+0.418111 - Process 2: processing action - continue
+0.435472 - Interrupt: Process 2 - quantum time out
+0.435525 - OS: seleting next process
+0.435542 - Process 2: keyboard input - start
+0.435560 - Process 2 : block for keyboard input
+0.481457 - Interrupt: Process 1 - hard drive output completed
+0.497971 - OS: seleting next process
+0.498024 - Process 1: keyboard input - start
+0.498068 - Process 1 : block for keyboard input
+0.523572 - Interrupt: Process 3 - printer output completed
+0.523633 - OS: seleting next process
+0.523648 - Process 3: processing action - start
+0.538728 - OS: seleting next process
+0.538747 - Process 3: processing action - continue
+0.554905 - OS: seleting next process
+0.554932 - Process 3: processing action - continue
+0.569969 - Interrupt: Process 3 - quantum time out
+0.569989 - OS: seleting next process
+0.569993 - Process 3: processing action - start
+0.586191 - OS: seleting next process
+0.586215 - Process 3: processing action - continue
+0.601281 - OS: seleting next process
+0.601302 - Process 3: processing action - continue
+0.617854 - OS: seleting next process
+0.625535 - Process 3: processing action - continue
+0.642433 - OS: seleting next process
+0.642466 - Process 3: processing action - continue
+0.658364 - Interrupt: Process 3 - quantum time out
+0.658409 - OS: seleting next process
+0.658414 - Process 3: hard drive input - start
+0.658455 - Process 3 : block for hard drive input
+0.665486 - Interrupt: Process 1 - keyboard input completed
+0.665560 - OS: seleting next process
+0.665566 - Process 1: hard drive output - start
+0.672051 - Process 1 : block for hard drive output
+0.750477 - Interrupt: Process 3 - hard drive input completed
+0.757961 - OS: seleting next process
+0.757985 - Process 3: hard drive output - start
+0.758019 - Process 3 : block for hard drive output
+0.783761 - Interrupt: Process 2 - keyboard input completed
+0.790003 - OS: seleting next process
+0.789976 - Interrupt: Process 1 - hard drive output completed
+0.790242 - Process 2: processing action - start
+0.805298 - OS: seleting next process
+0.805320 - Process 1: processing action - start
+0.821594 - OS: seleting next process
+0.821623 - Process 2: processing action - continue
+0.836660 - OS: seleting next process
+0.836675 - Process 1: processing action - continue
+0.852850 - OS: seleting next process
+0.852879 - Process 2: processing action - continue
+0.867978 - OS: seleting next process
+0.867998 - Process 1: processing action - continue
+0.884714 - OS: seleting next process
+0.884744 - Process 2: processing action - continue
+0.885437 - Interrupt: Process 3 - hard drive output completed
+0.914139 - Interrupt: Process 2 - quantum time out
+0.914212 - OS: seleting next process
+0.914217 - Process 1: processing action - continue
+0.944274 - Interrupt: Process 1 - quantum time out
+0.944349 - OS: seleting next process
+0.944354 - Process 3: keyboard input - start
+0.944435 - Process 3 : block for keyboard input
+0.944451 - OS: seleting next process
+0.944455 - Process 2: processing action - start
+0.959506 - OS: seleting next process
+0.959527 - Process 1: hard drive input - start
+0.959548 - Process 1 : block for hard drive input
+0.959553 - OS: seleting next process
+0.959556 - Process 2: processing action - continue
+0.975727 - OS: seleting next process
+0.975760 - Process 2: processing action - continue
+0.990796 - OS: seleting next process
+0.990816 - Process 2: processing action - continue
+1.007212 - OS: seleting next process
+1.007227 - Process 2: processing action - continue
+1.022714 - Interrupt: Process 2 - quantum time out
+1.022736 - OS: seleting next process
+1.022740 - Process 2: monitor output - start
+1.022773 - Process 2 : block for monitor output
+1.067474 - Interrupt: Process 1 - hard drive input completed
+1.067552 - OS: seleting next process
+1.067580 - Process 1: hard drive output - start
+1.067607 - Process 1 : block for hard drive output
+1.080862 - Interrupt: Process 2 - monitor output completed
+1.080914 - OS: seleting next process
+1.087504 - Process 2: keyboard input - start
+1.087564 - Process 2 : block for keyboard input
+1.130079 - Interrupt: Process 1 - hard drive output completed
+1.130155 - OS: seleting next process
+1.130183 - Process 1: hard drive input - start
+1.134698 - Process 1 : block for hard drive input
+1.197004 - Interrupt: Process 1 - hard drive input completed
+1.207711 - OS: seleting next process
+1.207745 - Process 1: printer output - start
+1.207795 - Process 1 : block for printer output
+1.307445 - Interrupt: Process 3 - keyboard input completed
+1.309984 - OS: seleting next process
+1.310063 - Process 3: processing action - start
+1.327518 - OS: seleting next process
+1.327574 - Process 3: processing action - continue
+1.343706 - Interrupt: Process 3 - quantum time out
+1.350066 - OS: seleting next process
+1.350111 - Process 3: printer output - start
+1.350193 - Process 3 : block for printer output
+1.407441 - Interrupt: Process 2 - keyboard input completed
+1.409975 - OS: seleting next process
+1.410050 - Process 2: printer output - start
+1.410124 - Process 2 : block for printer output
+1.414992 - Interrupt: Process 1 - printer output completed
+1.415084 - OS: seleting next process
+1.415111 - Process 1: keyboard input - start
+1.415150 - Process 1 : block for keyboard input
+1.437471 - Interrupt: Process 3 - printer output completed
+1.442465 - OS: seleting next process
+1.442616 - Process 3: processing action - start
+1.457712 - OS: seleting next process
+1.457748 - Process 3: processing action - continue
+1.482012 - OS: seleting next process
+1.482092 - Process 3: processing action - continue
+1.499515 - OS: seleting next process
+1.499559 - Process 3: processing action - continue
+1.515746 - OS: seleting next process
+1.515793 - Process 3: processing action - continue
+1.530904 - Interrupt: Process 3 - quantum time out
+1.530948 - OS: seleting next process
+1.530974 - Process 3: processing action - start
+1.547245 - OS: seleting next process
+1.547299 - Process 3: processing action - continue
+1.562351 - OS: seleting next process
+1.562392 - Process 3: processing action - continue
+1.573416 - Interrupt: Process 2 - printer output completed
+1.578595 - OS: seleting next process
+1.578637 - Process 2: processing action - start
+1.593753 - OS: seleting next process
+1.593791 - Process 3: processing action - continue
+1.610884 - Interrupt: Process 3 - quantum time out
+1.610940 - OS: seleting next process
+1.610966 - Process 2: processing action - continue
+1.626092 - OS: seleting next process
+1.626134 - Process 3: keyboard input - start
+1.626189 - Process 3 : block for keyboard input
+1.626219 - OS: seleting next process
+1.626245 - Process 2: processing action - continue
+1.646935 - OS: seleting next process
+1.647032 - Process 2: processing action - continue
+1.679438 - OS: seleting next process
+1.679574 - Process 2: processing action - continue
+1.706936 - Interrupt: Process 2 - quantum time out
+1.707009 - OS: seleting next process
+1.707013 - Process 2: processing action - start
+1.722047 - OS: seleting next process
+1.722065 - Process 2: processing action - continue
+1.739461 - OS: seleting next process
+1.739513 - Process 2: processing action - continue
+1.754564 - OS: seleting next process
+1.754585 - Process 2: processing action - continue
+1.774436 - Interrupt: Process 2 - quantum time out
+1.774520 - OS: seleting next process
+1.774524 - Process 2: processing action - start
+1.789558 - OS: seleting next process
+1.789574 - Process 2: processing action - continue
+1.799484 - Interrupt: Process 1 - keyboard input completed
+1.805718 - Interrupt: Process 2 - quantum time out
+1.805739 - OS: seleting next process
+1.805743 - Process 1: hard drive output - start
+1.805784 - Process 1 : block for hard drive output
+1.805798 - OS: seleting next process
+1.805801 - Process 2: hard drive input - start
+1.805816 - Process 2 : block for hard drive input
+1.901930 - Interrupt: Process 1 - hard drive output completed
+1.909426 - OS: seleting next process
+1.909457 - Process 1: processing action - start
+1.929427 - OS: seleting next process
+1.929473 - Process 1: processing action - continue
+1.941960 - Interrupt: Process 2 - hard drive input completed
+1.945694 - OS: seleting next process
+1.945719 - Process 2: hard drive output - start
+1.945748 - Process 2 : block for hard drive output
+1.945762 - OS: seleting next process
+1.945766 - Process 1: processing action - continue
+1.961982 - OS: seleting next process
+1.962006 - Process 1: processing action - continue
+1.979481 - Interrupt: Process 1 - quantum time out
+1.979537 - OS: seleting next process
+1.979541 - Process 1: keyboard input - start
+1.979585 - Process 1 : block for keyboard input
+2.025395 - Interrupt: Process 3 - keyboard input completed
+2.041000 - Interrupt: Process 2 - hard drive output completed
+2.041027 - OS: seleting next process
+2.041038 - Process 3: hard drive output - start
+2.041071 - Process 3 : block for hard drive output
+2.049505 - OS: seleting next process
+2.049522 - Process 2: hard drive input - start
+2.049544 - Process 2 : block for hard drive input
+2.086921 - Interrupt: Process 3 - hard drive output completed
+2.087607 - OS: seleting next process
+2.087634 - Process 3: hard drive input - start
+2.087677 - Process 3 : block for hard drive input
+2.138204 - Interrupt: Process 3 - hard drive input completed
+2.141956 - OS: seleting next process
+2.147042 - Process 3: processing action - start
+2.154428 - Interrupt: Process 2 - hard drive input completed
+2.163243 - OS: seleting next process
+2.163268 - Process 2: printer output - start
+2.163297 - Process 2 : block for printer output
+2.163311 - OS: seleting next process
+2.163315 - Process 3: processing action - continue
+2.179476 - OS: seleting next process
+2.179527 - Process 3: processing action - continue
+2.195747 - Interrupt: Process 3 - quantum time out
+2.195777 - OS: seleting next process
+2.195782 - Process 3: printer output - start
+2.195813 - Process 3 : block for printer output
+2.285724 - Interrupt: Process 3 - printer output completed
+2.285810 - OS: seleting next process
+2.285831 - Process 3: processing action - start
+2.309446 - OS: seleting next process
+2.309490 - Process 3: processing action - continue
+2.325730 - OS: seleting next process
+2.330777 - Process 3: processing action - continue
+2.345971 - OS: seleting next process
+2.345977 - Process 3: processing action - continue
+2.362009 - Interrupt: Process 3 - quantum time out
+2.362036 - OS: seleting next process
+2.362041 - Process 3: processing action - start
+2.369417 - Interrupt: Process 2 - printer output completed
+2.376160 - Interrupt: Process 1 - keyboard input completed
+2.378066 - OS: seleting next process
+2.378107 - Process 2: hard drive input - start
+2.378134 - Process 2 : block for hard drive input
+2.378138 - OS: seleting next process
+2.378141 - Process 3: processing action - continue
+2.393453 - OS: seleting next process
+2.393494 - Process 1: printer output - start
+2.393538 - Process 1 : block for printer output
+2.393567 - OS: seleting next process
+2.393593 - Process 3: processing action - continue
+2.409823 - OS: seleting next process
+2.409851 - Process 3: processing action - continue
+2.424994 - Interrupt: Process 2 - hard drive input completed
+2.425066 - OS: seleting next process
+2.425096 - Process 2: processing action - start
+2.441696 - OS: seleting next process
+2.441750 - Process 3: processing action - continue
+2.456874 - Interrupt: Process 3 - quantum time out
+2.456917 - OS: seleting next process
+2.456998 - Process 2: processing action - continue
+2.466281 - Interrupt: Process 1 - printer output completed
+2.478610 - OS: seleting next process
+2.478638 - Process 1: hard drive input - start
+2.478686 - Process 1 : block for hard drive input
+2.478691 - OS: seleting next process
+2.478694 - Process 3: keyboard input - start
+2.478708 - Process 3 : block for keyboard input
+2.478722 - OS: seleting next process
+2.478726 - Process 2: processing action - continue
+2.493758 - Interrupt: Process 2 - quantum time out
+2.493781 - OS: seleting next process
+2.493785 - Process 2: processing action - start
+2.510019 - OS: seleting next process
+2.510047 - Process 2: processing action - continue
+2.525118 - OS: seleting next process
+2.525138 - Process 2: processing action - continue
+2.545659 - OS: seleting next process
+2.545726 - Process 2: processing action - continue
+2.561928 - Interrupt: Process 2 - quantum time out
+2.561957 - OS: seleting next process
+2.561974 - Process 2: processing action - start
+2.572566 - Interrupt: Process 1 - hard drive input completed
+2.578182 - OS: seleting next process
+2.578234 - Process 1: hard drive output - start
+2.578288 - Process 1 : block for hard drive output
+2.578317 - OS: seleting next process
+2.578343 - Process 2: processing action - continue
+2.609410 - Interrupt: Process 2 - quantum time out
+2.609504 - OS: seleting next process
+2.609545 - Process 2: processing action - start
+2.612692 - Interrupt: Process 3 - keyboard input completed
+2.626711 - OS: seleting next process
+2.626724 - Process 3: processing action - start
+2.641812 - OS: seleting next process
+2.641855 - Process 2: processing action - continue
+2.641998 - Interrupt: Process 1 - hard drive output completed
+2.674078 - OS: seleting next process
+2.674113 - Process 3: processing action - continue
+2.704166 - OS: seleting next process
+2.704193 - Process 1: hard drive input - start
+2.704236 - Process 1 : block for hard drive input
+2.704242 - OS: seleting next process
+2.704245 - Process 2: processing action - continue
+2.720380 - OS: seleting next process
+2.720390 - Process 3: processing action - continue
+2.735476 - Interrupt: Process 3 - quantum time out
+2.735495 - OS: seleting next process
+2.735499 - Process 2: processing action - continue
+2.751741 - Interrupt: Process 1 - hard drive input completed
+2.751748 - Interrupt: Process 2 - quantum time out
+2.751823 - OS: seleting next process
+2.751839 - Process 1: printer output - start
+2.751875 - Process 1 : block for printer output
+2.941088 - Interrupt: Process 1 - printer output completed
+2.941153 - OS: seleting next process
+2.941175 - Process 1: processing action - start
+2.971262 - OS: seleting next process
+2.971301 - Process 1: processing action - continue
+3.001354 - OS: seleting next process
+3.001361 - Process 1: processing action - continue
+3.031536 - OS: seleting next process
+3.031561 - Process 1: processing action - continue
+3.061697 - OS: seleting next process
+3.061728 - Process 1: processing action - continue
+3.091781 - Interrupt: Process 1 - quantum time out
+3.091812 - Simulator program ending
